@@ -1,0 +1,6 @@
+{
+  "name": "MANGO Footwear Sri Lanka",
+  "description": "Premier Sri Lankan natural rubber slippers and sandals hand-molded with Ceylon latex and ergonomic tropical comfort.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
